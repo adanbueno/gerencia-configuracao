@@ -312,6 +312,12 @@ p, address {
   padding-bottom: 10px;
 }
 
+.home-logo {
+  color: white;
+  text-decoration: none;
+  padding-bottom: 10px;
+}
+
 .tm-nav-link.active,
 .tm-nav-link:hover {
   border-bottom: 1px solid white;
@@ -466,7 +472,7 @@ p, address {
 }
 
 .tm-right {
-  align-self: flex-end;
+  align-self: flex-start;
 }
 
 .tm-footer {
