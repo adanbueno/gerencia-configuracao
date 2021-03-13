@@ -466,7 +466,7 @@ p, address {
 }
 
 .tm-right {
-  align-self: flex-end;
+  align-self: flex-start;
 }
 
 .tm-footer {
